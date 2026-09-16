@@ -14,3 +14,5 @@ Hãy tuân thủ nghiêm ngặt các kịch bản xử lý sau đây khi gặp c
 """
 Cách 2: Sử dụng Few-shot Prompting (Phù hợp khi muốn AI bắt chước đúng văn mẫu, giọng điệu cụ thể):
 Nếu team của bạn soạn sẵn các cặp câu hỏi - câu trả lời mẫu, bạn có thể nhét thẳng các mẫu này vào mảng history ngay từ khi khởi tạo phiên chat, giúp AI định hình phong cách phản hồi chuẩn xác theo ý muốn trước khi bắt đầu trò chuyện với người dùng.
+
+thêm mới đz sửa test github
